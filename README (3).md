@@ -5,7 +5,7 @@ Customer segmentation is a crucial aspect of business strategy, enabling compani
 
 **RFM Analysis**
 
-RFM analysis is a powerful technique used by data scientists and marketing professionals to understand and segment customers based on their buying behavior. By analyzing three key metrics—recency, frequency, and monetary value—businesses can gain valuable insights into customer engagement, loyalty, and overall value.
+RFM analysis is a powerful technique used by data scientists and marketing professionals to understand and segment customers based on their buying behavior. By analyzing three key metrics—recency,frequency, and monetary value—businesses can gain valuable insights into customer engagement, loyalty, and overall value.
 
 → Recency:→ Measures the time elapsed since a customer's last purchase, indicating how recently they have interacted with the business.
 → Frequency:→ Indicates how often a customer makes purchases, providing insights into their level of engagement and loyalty.
